@@ -12,5 +12,5 @@ Endpoints
 - GET: /Get-books
 - POST: /Post-transaction
 - GET: /Get-transaction/<transaction_id>
-- GET : /Get-transactiona
+- GET : /Get-transactions
 - POST : /Post-review
