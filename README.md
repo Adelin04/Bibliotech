@@ -6,5 +6,7 @@ https://github.com/Adelin04/Bibliotech/blob/main/Tema-punct%20bonus-Modul3-TFP.p
 Endpoints
 - POST: /register
 - POST: /login
-- POST: /post-book
-- POST: /post-books
+- POST: /Post-book
+- POST: /Post-books
+- GET: /Get-book/<book_id>
+- GET: /Get-books
